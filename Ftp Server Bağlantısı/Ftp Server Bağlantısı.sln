@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ftp Server Bağlantısı", "Ftp Server Bağlantısı\Ftp Server Bağlantısı.csproj", "{1FAD0ADE-415E-4A0B-8301-F56C0821A988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FAD0ADE-415E-4A0B-8301-F56C0821A988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAD0ADE-415E-4A0B-8301-F56C0821A988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAD0ADE-415E-4A0B-8301-F56C0821A988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAD0ADE-415E-4A0B-8301-F56C0821A988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58BB7BF2-23CF-44E5-B586-135823C05D97}
+	EndGlobalSection
+EndGlobal
