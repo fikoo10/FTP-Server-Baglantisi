@@ -1,0 +1,1 @@
+Uygulama Videoda Açıklanmıştır.
