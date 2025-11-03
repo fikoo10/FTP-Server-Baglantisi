@@ -1,5 +1,5 @@
 Uygulamanın Dosyaları Klasör İçindedir.
 <br>
-Uygulama Videoda Açıklanmıştır.
+Uygulamanın Video Linki Aşağıdadır.
 <br>
-[![Watch the video](https://img.youtube.com/vi/bEhqUkGVM64/0.jpg)]([https://www.youtube.com/watch?v=_5tFXJQIzi4](https://www.youtube.com/watch?v=bEhqUkGVM64))
+<a href="https://youtu.be/bEhqUkGVM64" target="_blank">Video</a>
